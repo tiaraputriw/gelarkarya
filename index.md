@@ -1,6 +1,6 @@
 ---
 layout: default
-title: KKN Tim 90 - Kelompok 3
+title: KKN IDBU Tim 90
 ---
 
 <h2>Selamat Datang KKN IDBU Tim 90 - Dukuh Kupo</h2>
@@ -75,5 +75,6 @@ title: KKN Tim 90 - Kelompok 3
     </div>
   </div>
 </div>
+
 
 
