@@ -61,7 +61,7 @@ title: KKNT IDBU Tim 90
       <div class="card-body">
         <h5 class="card-title">Rencana Desain Gapura Dukuh Kupo</h5>
         <p class="card-text">Terdapat 6 contoh desain gapura dukuh Kupo yang dibuat oleh kelompok 1 sebagai luaran program sosial kemasyarakatan</p>
-        <a href="Rencana Desain Gapura Dukuh Kupo (Tim KKN-T 90 UNDIP 2025).pdf" class="btn btn-primary">Detail</a>
+        <a href="Rencana Desain Gapura Dukuh Kupo.pdf" class="btn btn-primary">Detail</a>
       </div>
     </div>
   </div>
@@ -76,6 +76,7 @@ title: KKNT IDBU Tim 90
     </div>
   </div>
 </div>
+
 
 
 
