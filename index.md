@@ -57,7 +57,7 @@ title: KKNT IDBU Tim 90
 <div class="row">
   <div class="col-sm-6">
     <div class="card">
-      <img src="{{ site.baseurl }}/img/RencanaDesainGapura.png" class="card-img-top" alt="Rencana Desain Gapura">
+      <img src="{{ site.baseurl }}/img/RencanaDesainGapura.png" class="card-img-top" alt="Rencana Desain Gapura" style="width: 250px; height:200px">
       <div class="card-body">
         <h5 class="card-title">Rencana Desain Gapura Dukuh Kupo</h5>
         <p class="card-text">Terdapat 6 contoh desain gapura dukuh Kupo yang dibuat oleh kelompok 1 sebagai luaran program sosial kemasyarakatan</p>
@@ -76,6 +76,7 @@ title: KKNT IDBU Tim 90
     </div>
   </div>
 </div>
+
 
 
 
