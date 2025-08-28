@@ -4,6 +4,7 @@ title: KKNT IDBU Tim 90
 ---
 
 <h2>Selamat Datang KKN IDBU Tim 90 - Dukuh Kupo</h2>
+<hr>
 
 <div class="row">
   <div class="col-sm-6">
@@ -75,6 +76,7 @@ title: KKNT IDBU Tim 90
     </div>
   </div>
 </div>
+
 
 
 
