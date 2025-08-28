@@ -1,6 +1,6 @@
 ---
 layout: default
-title: KKN IDBU Tim 90
+title: KKNTIDBU Tim 90
 ---
 
 <h2>Selamat Datang KKN IDBU Tim 90 - Dukuh Kupo</h2>
@@ -75,6 +75,7 @@ title: KKN IDBU Tim 90
     </div>
   </div>
 </div>
+
 
 
 
