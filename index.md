@@ -75,14 +75,4 @@ title: KKN Tim 90 - Kelompok 3
     </div>
   </div>
 </div>
-    <!-- <div class="col-sm-6">
-    <div class="card">
-      <img src="..." class="card-img-top" alt="...">
-      <div class="card-body">
-        <h5 class="card-title">Poster Pembasmian Hama</h5>
-        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-        <a href="Poster.png" class="btn btn-primary">Detail</a>
-      </div>
-    </div> -->
-  <!-- </div> -->
-<!-- </div> -->
+
