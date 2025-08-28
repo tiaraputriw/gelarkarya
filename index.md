@@ -8,7 +8,7 @@ title: KKN Tim 90 - Kelompok 3
 <div class="row">
   <div class="col-sm-6">
     <div class="card">
-      <img src="/img/BookletPembasmianHama.png" class="card-img-top" alt="Booklet Pembasmian Hama">
+      <img src="{{ site.baseurl }}/img/BookletPembasmianHama.png" class="card-img-top" alt="Booklet Pembasmian Hama">
       <div class="card-body">
         <h5 class="card-title">Buku Pembasmian Hama</h5>
         <p class="card-text">Sebuah buku yang dibuat oleh kelompok 3 sebagai program multidisiplin 2 mengenai tata cara pembuatan pestisida nabati beserta manfaat dan cara pengelolaannya</p>
@@ -18,7 +18,7 @@ title: KKN Tim 90 - Kelompok 3
   </div>
   <div class="col-sm-6">
     <div class="card">
-      <img src="/img/LuaranMulti2Poster.jpg" class="card-img-top" alt="Poster tentang Sampah">
+      <img src="{{ site.baseurl }}/img/LuaranMulti2Poster.jpg" class="card-img-top" alt="Poster tentang Sampah">
       <div class="card-body">
         <h5 class="card-title">Poster Pentingnya Membuang Sampah</h5>
         <p class="card-text">Sebuah poster yang dibuat oleh kelompok 2 sebagai luaran program multidisiplin 2 mengenai alasan pentingnya membuang sampah pada tempatnya yaitu untuk mencegah penyakit, melindungi ekosistem dan memudahkan pengelolaan sampah </p>
@@ -32,7 +32,7 @@ title: KKN Tim 90 - Kelompok 3
 <div class="row">
   <div class="col-sm-6">
     <div class="card">
-      <img src="/img/PosterPeringatanDiniK3.png" class="card-img-top" alt="Poster Peringatan K3">
+      <img src="{{ site.baseurl }}/img/PosterPeringatanDiniK3.png" class="card-img-top" alt="Poster Peringatan K3">
       <div class="card-body">
         <h5 class="card-title">Poster Peringatan Dini K3</h5>
         <p class="card-text">Sebuah poster yang dibuat oleh kelompok 3 sebagai luaran program multidisiplin 1 mengenai alasan perlunya menjaga keselamatan dalam bekerja yaitu menjaga keluarga, melindungi diri, mencegah kecelakaan dan menjaga produktivitas</p>
@@ -42,7 +42,7 @@ title: KKN Tim 90 - Kelompok 3
   </div>
   <div class="col-sm-6">
     <div class="card">
-      <img src="/img/PosterProsedurK3.png" class="card-img-top" alt="Poster Prosedur K3">
+      <img src="{{ site.baseurl }}/img/PosterProsedurK3.png" class="card-img-top" alt="Poster Prosedur K3">
       <div class="card-body">
         <h5 class="card-title">Poster Prosedur K3</h5>
         <p class="card-text">Sebuah poster yang dibuat oleh kelompok 3 sebagai luaran program multidisiplin 1 mengenai beberapa peralatan yang harus dipakai ketika melakukan pekerjaan di bengkel tembaga diantaranya ppenutup telinga, masker dan sarung tangan</p>
@@ -56,7 +56,7 @@ title: KKN Tim 90 - Kelompok 3
 <div class="row">
   <div class="col-sm-6">
     <div class="card">
-      <img src="/img/RencanaDesainGapura.png" class="card-img-top" alt="Rencana Desain Gapura">
+      <img src="{{ site.baseurl }}/img/RencanaDesainGapura.png" class="card-img-top" alt="Rencana Desain Gapura">
       <div class="card-body">
         <h5 class="card-title">Rencana Desain Gapura Dukuh Kupo</h5>
         <p class="card-text">Terdapat 6 contoh desain gapura dukuh Kupo yang dibuat oleh kelompok 1 sebagai luaran program sosial kemasyarakatan</p>
@@ -66,7 +66,7 @@ title: KKN Tim 90 - Kelompok 3
   </div>
   <div class="col-sm-6">
     <div class="card">
-      <img src="/img/BookletDigital.png" class="card-img-top" alt="Booklet Digital">
+      <img src="{{ site.baseurl }}/img/BookletDigital.png" class="card-img-top" alt="Booklet Digital">
       <div class="card-body">
         <h5 class="card-title">Booklet Digital</h5>
         <p class="card-text">Buku yang dibuat oleh kelompok 4 sebagai luaran program multidisiplin 1 berisi tentang penjelasan teknologi spinning dan jenis-jenis kerajinan tembaga</p>
@@ -75,4 +75,5 @@ title: KKN Tim 90 - Kelompok 3
     </div>
   </div>
 </div>
+
 
